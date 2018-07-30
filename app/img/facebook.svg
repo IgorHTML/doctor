@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #376080;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="facebook" transform="translate(-821 -31)">
+    <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-1" cx="15" cy="15" r="15" transform="translate(821 31)"/>
+    <g id="Group_13" data-name="Group 13" transform="translate(831.184 37)">
+      <g id="Group_14" data-name="Group 14">
+        <path id="Path_4" data-name="Path 4" class="cls-2" d="M5.872,6.461V4.107A1.174,1.174,0,0,1,7.049,2.93H8.226V0H5.872A3.519,3.519,0,0,0,2.354,3.531V6.474H0V9.416H2.354v9.39H5.885V9.4H8.239L9.416,6.461Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
